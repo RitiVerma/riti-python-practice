@@ -1,9 +1,12 @@
-# Riti Python Practice
+# Riti Python Practice 🐍
 
-A repository for practicing Python programming.
+This repository contains my Python learning and practice.
 
-## Running the app
+## 📚 Topics I will cover
+- Basics
+- Functions
+- File handling
+- Automation scripts
 
-```bash
-python3 app.py
-```
+## 🎯 Goal
+To use Python in DevOps and automation.
